@@ -32,6 +32,7 @@ This framework combines the information from two open-source 3D monocular pre-tr
 - Run the cells to compute the additional body keypoints (AC, IJ, PX, EM, EL, RS and US).
 -  The first 20 frames of each video are used to create a static trial for calculating IJ and PX.
 - Ensure the `.txt` files generated in the previous steps are correctly placed in the *'coordinates_VideoPose3D'* and *'coordinates_MediaPipePose'* folders.
+- The additional body coordinates will be stored in the .txt files of the *'coordinates_VideoPose3D'* folder
 - For detailed information on the calculations, refer to the thesis associated with this project.
 
 ### Step 7 - Visualize the Skeleton-based Model:
