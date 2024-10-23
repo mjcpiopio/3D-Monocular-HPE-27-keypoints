@@ -21,11 +21,11 @@ This framework combines the information from two open-source 3D monocular pre-tr
 - In the first cell of the notebook, connect your Google Drive to Google Colab to access the previously uploaded folders.
   
 ### Step 4 - Generate VideoPose3D Output:
-- Run the following cells of the Colab Notebook sequentially to process the videos and generate the 17 keypoint positions estimated by the VideoPose3D algorithm.
+- Run the following cells of the Colab Notebook sequentially to process the videos and generate the 17 keypoint coordinates estimated by the VideoPose3D algorithm.
 - The output will include `.mp4` animations as well as `.npz` and `.txt` files containing the 3D coordinates of each keypoint across all frames. For additional details, see the Colab Notebook comments along the code.
 
 ### Step 5 - Generate MediaPipe Pose Output:
-- Run the corresponding cells to generate the 33 keypoint positions estimated by the MediaPipe Pose algorithm.
+- Run the corresponding cells to generate the 33 keypoint coordinates estimated by the MediaPipe Pose algorithm.
 - The output will be `.txt` files with the 3D coordinates of each keypoint for all frames.
 
 ### Step 6 - Calculate Additional Body Keypoints:
