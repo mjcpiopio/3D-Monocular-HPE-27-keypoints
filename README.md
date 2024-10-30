@@ -50,7 +50,7 @@ This framework combines the information from two open-source 3D monocular pre-tr
 - **`Output_Hybrid_Model_example/`**: Contains an image output provided by the Hybrid Model for the example input video.
 
 ## Bibliography:
-- "Upper Limb Joint Force Estimation via Inverse Dynamics and Monocular Human Pose Estimation: Assessment with In-Vivo Shoulder Data". Maria João Candeias Pio, Carlos Quental, Ivo Roupa. Master's Thesis. Instituto Superior Técnico.
+- "Upper Limb Joint Force Estimation via Inverse Dynamics and Monocular Human Pose Estimation: Assessment with In-Vivo Shoulder Data". Maria João Candeias Pio, Carlos Miguel Fernandes Quental, Ivo Fialho Roupa. Master's Thesis. Instituto Superior Técnico.
 - Dario Pavllo. Videopose3d - inference. URL https://github.com/facebookresearch/VideoPose3D/blob/main/INFERENCE.md.
 - Google. Mediapipe. URL https://ai.google.dev/edge/mediapipe/solutions/guide.
 - Orthoload. Orthoload - loading of orthopaedic implants. URL https://orthoload.com/.
